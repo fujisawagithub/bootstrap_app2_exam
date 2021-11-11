@@ -1,0 +1,7 @@
+2021-11-10 14:43:24.128 JST [30010] LOG:  starting PostgreSQL 14.0 on x86_64-apple-darwin20.6.0, compiled by Apple clang version 13.0.0 (clang-1300.0.29.3), 64-bit
+2021-11-10 14:43:24.132 JST [30010] LOG:  listening on IPv6 address "::1", port 5432
+2021-11-10 14:43:24.132 JST [30010] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2021-11-10 14:43:24.134 JST [30010] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2021-11-10 14:43:24.146 JST [30011] LOG:  database system was shut down at 2021-11-10 14:42:26 JST
+2021-11-10 14:43:24.157 JST [30010] LOG:  database system is ready to accept connections
+2021-11-10 14:44:06.091 JST [30080] FATAL:  database "bootstrap_app2_development" does not exist
